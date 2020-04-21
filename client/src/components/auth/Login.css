@@ -1,0 +1,16 @@
+.form{
+    margin-top: 3rem;
+}
+
+.form-title{
+    margin-top: 3rem;
+}
+
+.btn-signup{
+    background-color: rgb(251, 40, 122);
+    margin-bottom: 4rem;
+    width: 150px;
+    height: 50px;
+    border-radius: 3px;
+    letter-spacing: 1.5px;
+}

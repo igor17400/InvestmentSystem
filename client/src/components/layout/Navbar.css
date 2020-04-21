@@ -1,0 +1,10 @@
+.navbar-nav>.active>a {
+    background-color: rgb(180, 74, 166);
+    border-radius: 15px;
+    margin-left: 15px;
+}
+
+.nav-item>a:hover {
+    background-color: rgb(230, 139, 217);
+    border-radius: 15px;
+}
